@@ -25,7 +25,7 @@ Suvedus šiuos duomenis programa konsolėje atspausdina pasisveikinimą, įvilkt
 Iveskite savo varda Jonas
 **********************
 *                    *
-* Sveikas, Jonas!    *
+*   Sveikas, Jonas   *
 *                    *
 **********************
 ```
