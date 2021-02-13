@@ -22,10 +22,10 @@ Paleidus programą, komandinėje eilutėje vartotojo yra prašoma suvesti:
 Suvedus šiuos duomenis programa konsolėje atspausdina pasisveikinimą, įvilktą į rėmelį, sudarytą iš žvagždučių `*`:
 
 ```shell
-Iveskite savo varda Jonas
+Iveskite savo varda Petras
 **********************
 *                    *
-*   Sveikas, Jonas   *
+*  Sveikas, Petras!  *
 *                    *
 **********************
 ```
@@ -56,6 +56,6 @@ make run arba ./main
 
 ### Changelog
 
-* [v1.0]() Leidžia vartotojui įvesti rėmelio dydį.
-* [v0.2]() Pakeičia žodį *Sveikas* į *Sveika*, atsižvelgiant į vartotojo lytį.
-* [v0.1](linkas) Atspausdina pasisveikinimą su rėmeliu.
+* [v1.0](https://github.com/PovilasRandis/1Laboratorinis/releases/tag/v1.0) Leidžia vartotojui įvesti rėmelio dydį.
+* [v0.2](https://github.com/PovilasRandis/1Laboratorinis/releases/tag/v0.2) Pakeičia žodį *Sveikas* į *Sveika*, atsižvelgiant į vartotojo lytį.
+* [v0.1](https://github.com/PovilasRandis/1Laboratorinis/releases/tag/v0.1) Atspausdina pasisveikinimą su rėmeliu.
